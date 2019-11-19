@@ -5,7 +5,7 @@ description: >
 author: 511V41
 email: yukkuri.sinai@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://511V41.github.io" # the base hostname & protocol for your site
+url: "https://511v41.github.io" # the base hostname & protocol for your site
 github_username:  511V41
 
 # Build settings

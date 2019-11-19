@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SNES開発環境構築メモ"
-date:   2019-11-19 10:00:00
+date:   2019-11-19 10:00:00 +0900
 ---
 
 macOS Mojave version 10.14.5

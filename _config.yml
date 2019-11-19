@@ -7,6 +7,7 @@ email: yukkuri.sinai@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://511v41.github.io" # the base hostname & protocol for your site
 github_username:  511V41
+timezone: Japan
 
 # Build settings
 include: [_pages]

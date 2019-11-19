@@ -6,7 +6,7 @@ permalink: /about/
 
 Kota Ogihara ([511V41](https://github.com/511V41))
 
-Software developer in Japan.
+Software developer in Tokyo, Japan.
 
 Working at [UNIPRO Inc.](https://unipro.co.jp/)
 

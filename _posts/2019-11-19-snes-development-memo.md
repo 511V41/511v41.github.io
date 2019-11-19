@@ -88,4 +88,4 @@ make install
 
 これに書き換えて動作確認。うまく行きました。
 
-いかがでしたか？
+一応[PR](https://github.com/jurgiles/snes-dev/pull/1)投げときました。

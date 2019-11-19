@@ -1,0 +1,28 @@
+# Site settings
+title: Work The Dial
+description: >
+    511V41's diary
+author: 511V41
+email: yukkuri.sinai@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://511V41.github.io" # the base hostname & protocol for your site
+github_username:  511V41
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+sass:
+    style: compressed
+
+gems:
+  - jemoji
+  - jekyll-sitemap
+# - amp-jekyll # Acceletrated Mobile Pages
+
+# AMP Settings
+# ampdir: amp/
+# enable_amp: true
+
+# Google Analytics
+# google_analytics: UA-XXXXXXXX-X

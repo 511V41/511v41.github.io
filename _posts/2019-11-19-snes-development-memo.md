@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "SNES開発環境構築メモ"
+excerpt: "SNES development"
 date:   2019-11-19 10:00:00 +0900
 ---
 

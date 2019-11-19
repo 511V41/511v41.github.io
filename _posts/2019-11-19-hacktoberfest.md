@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hacktoberfest2019のクリア記録"
+excerpt: Hacktoberfest2019
 date:   2019-11-19 20:00:00 +0900
 ---
 

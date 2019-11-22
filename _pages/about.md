@@ -12,4 +12,5 @@ Working at [UNIPRO Inc.](https://unipro.co.jp/)
 
 I'm suffering from insomnia.
 
-[yukkuri.sinai@gmail.com](mailto:yukkuri.sinai@gmail.com)
+- [Mastodon](https://social.mikutter.hachune.net/@511V41)
+- [yukkuri.sinai@gmail.com](mailto:yukkuri.sinai@gmail.com)

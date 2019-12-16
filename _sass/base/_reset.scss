@@ -114,8 +114,17 @@ hr {
 
 /* Code Blocks */
 
-pre { overflow: auto; }
+pre { 
+    overflow: auto;
+    font-size: 1.4rem;
+}
+
+p {
+    > code {
+        padding: .2em .4em;
+        background-color: rgba(27,31,35,.05);
+    }
+}
 
 code, pre {
-
 }

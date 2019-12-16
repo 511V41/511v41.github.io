@@ -51,7 +51,7 @@ make install
 
 正解は [jurgiles/snes-dev](https://github.com/jurgiles/snes-dev) に含まれている `helloworld.asm` がおかしい。
 
-```asm
+```
 ; SNES Initialization Tutorial code
 ; This code is in the public domain.
 

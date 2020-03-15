@@ -129,3 +129,17 @@ p {
 
 code, pre {
 }
+
+/** スクロールバー **/
+
+body::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #163541;
+}

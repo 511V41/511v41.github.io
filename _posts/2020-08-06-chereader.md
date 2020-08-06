@@ -9,7 +9,7 @@ date:   2020-08-06 10:30:00 +0900
 
 カルネージハートエクサ([詳細]({% post_url 2020-05-25-kernageheart %}))からエクスポートしたチームデータを閲覧できるツール。前回はNode.jsで動かすスクリプトでしたが、今回はブラウザ版です。
 
-`gh-pages` で公開しています。[こちら](https://511v41.github.io/che-reader/)からどうぞ。
+`gh-pages` で公開しています。[こちら](https://511v41.github.io/che-reader/)からどうぞ。リポジトリは[こちら](https://github.com/511V41/che-reader)
 
 とりあえずざっくりと素朴に作って一区切りついたので公開しました。今後チマチマと手を加えていけたらいいかなと…。
 
@@ -50,7 +50,7 @@ context.fillStyle = `rgba(${r},${g},${b},${a})`;
 
 ReactでCanvasを扱うのはちょっと面倒なことにならないかな？と不安でしたが `useRef` と `useEffect` を使えば案外すんなりいきました。React Hooks最高！
 
-CardやButtonのようなコンポーネントには[Material-UI](https://material-ui.com/)を使っています。簡単に導入できて便利。TSのバンドルなどにはparcelを使っています。parcelでTS書くの本当にDXが良いのでオススメ。
+CardやButtonのようなコンポーネントには[Material-UI](https://material-ui.com/)を使っています。簡単に導入できて便利。TSのバンドルなどには[Parcel v2](https://v2.parceljs.org/)を使っています。parcelでTS書くの本当にDXが良いのでオススメ。
 
 今後改善したい点はパフォーマンスですね。というのも、このツールは基本的に「たくさんのチームデータから目当てのものを探す」ために使うものなので、大量のファイルを捌けないと不便です。なんとかします。
 

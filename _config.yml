@@ -19,6 +19,7 @@ sass:
 gems:
   - jemoji
   - jekyll-sitemap
+  - jekyll-target-blank
 # - amp-jekyll # Acceletrated Mobile Pages
 
 # AMP Settings
